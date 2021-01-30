@@ -1,6 +1,5 @@
 ### Hi
 我的名字叫陈子晗
-其他：略
 
 <!--
 **zzxaaas/zzxaaas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
